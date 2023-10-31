@@ -1,0 +1,9 @@
+.Details{
+    background-color: rgba(255, 255, 255, 0.092);
+    border-style: none;
+    border-radius: 40px;
+    text-align: left;
+    width: 200%;
+    padding: 20px;
+    align-self: center;
+}
